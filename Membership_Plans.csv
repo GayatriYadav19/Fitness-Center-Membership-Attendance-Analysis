@@ -1,0 +1,7 @@
+﻿plan_id,plan_name,duration,fee,duration_months,benefits
+1,Basic Monthly,Monthly,1500,1,Gym Access
+2,Standard Quarterly,Quarterly,4000,3,Gym + Group Classes
+3,Premium Half-Yearly,Half-Yearly,7000,6,Gym + Group Classes + Trainer
+4,Elite Yearly,Yearly,12000,12,Full Access + Priority Trainer
+5,Student Monthly,Monthly,1200,1,Gym Access + Student Discount
+6,Student Quarterly,Quarterly,3200,3,Gym + Group Classes + Student Discount
